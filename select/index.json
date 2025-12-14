@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "そんなもんね",
+  "base_artist": "asmi",
+  "createdAt": "2025-12-14T05:16:44.765203Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "そんなもんね",
+      "artist": "asmi",
+      "has_synced": true,
+      "path": "select/01_そんなもんね_asmi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "そんなもんね",
+      "artist": "asmi",
+      "has_synced": false,
+      "path": "select/pl_01_そんなもんね_asmi.txt"
+    }
+  ]
+}
